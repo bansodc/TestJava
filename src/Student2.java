@@ -14,6 +14,8 @@ public class Student2 {
 		{
 			System.out.println("finally always executed");
 			System.out.println("Complete");
+			System.out.println("Complete");
+			System.out.println("Complete");
 		}
 		
 
